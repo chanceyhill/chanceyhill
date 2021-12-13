@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanceyhill
 - 👀 I’m interested in ... Data Analyst, Software Development
-- 🌱 I’m currently learning ... how to process and clean data as part of the Google Data Analyst certificate program
-- 💞️ I’m looking to collaborate on ... simple data analyst projects that I may face as a Jr. Data Analyst
+- 🌱 I’m currently learning ... how to put together my final case study project as part of the Google Data Analyst certificate program
+- 👀 I’m looking to collaborate on ... simple data analyst projects that I may face as a Jr. Data Analyst
 - 📫 How to reach me ... message me on here or find me on LinkedIn
 
 <!---
