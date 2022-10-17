@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanceyhill
-- 👀 I’m interested in ... Data Analyst, Software Development
-- 🌱 I’m currently learning ... how to put together my final case study project as part of the Google Data Analyst certificate program
-- 👀 I’m looking to collaborate on ... simple data analyst projects that I may face as a Jr. Data Analyst
+- 👀 I’m interested in ... Software Development | Mobile Development
+- 🌱 I’m currently learning ... Python intermediate stages, as well as Swift for mobile app development
+- 👀 I’m looking to collaborate on ... Python projects | iOS apps (Swift only, no Objective-C)
 - 📫 How to reach me ... message me on here or find me on LinkedIn
 
 <!---
